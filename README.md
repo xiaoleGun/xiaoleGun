@@ -3,7 +3,7 @@
 ### Hi there 👋 I'm xiaoleGun
 - 🌱 I’m learning Android~
 - 📫 Email: xiaolegun@qq.com
-- 🏠 I'm a college student of Beijing Yanqing No. 4 middle school.
+- 🏠 I'm a junior high school student of Beijing Yanqing No.4 middle school.
 - A staunch communist
 - “尊严只在剑锋之上，真理只在大炮射程之内”
 
