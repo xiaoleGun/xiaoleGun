@@ -5,7 +5,7 @@
 - 📫 Email: xiaolegun@qq.com
 - 🏠 I'm a junior high school student of Beijing Yanqing No.4 middle school.
 - A staunch communist
-- “尊严只在剑锋之上，真理只在大炮射程之内”
+- “你负责担心，我负责搞定一切”
 
 ### 🎵 Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316vv52mbfrd4baiunsi7f6j324y&cover_image=true&theme=novatorem&bar_color=00c7fc&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=316vv52mbfrd4baiunsi7f6j324y&redirect=true)
