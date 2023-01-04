@@ -24,3 +24,5 @@
 [![honor 10](https://img.shields.io/badge/Honor%2010-000000?style=flat-square&logo=huawei&logoColor=red&labelColor=)](https://detail.zol.com.cn/cell_phone/index1207689.shtml)
 [![iQOO Neo5 lite](https://img.shields.io/badge/iQOO%20Neo5%20Lite-FFD306?style=flat-square)](https://www.vivo.com.cn/vivo/iqooneo5lite/)
 [![Dell 3437](https://img.shields.io/badge/Dell%203437-00BBFF?style=flat-square&logo=lenovo&logoColor=FFFFFF&labelColor=00BBFF)](https://www.dell.com/support/home/zh-cn/product-support/product/inspiron-14-3437/overview)
+
+![github contribution grid snake animation](https://github.com/xiaoleGun/xiaoleGun/raw/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/xiaoleGun/xiaoleGun/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
