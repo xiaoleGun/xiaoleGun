@@ -7,6 +7,9 @@
 - A staunch communist
 - “你负责担心，我负责搞定一切”
 
+### Buy me milk tea
+[爱发电](https://afdian.net/a/xiaoleGun)
+
 ### 🎵 Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316vv52mbfrd4baiunsi7f6j324y&cover_image=true&theme=novatorem&bar_color=00c7fc&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=316vv52mbfrd4baiunsi7f6j324y&redirect=true)
 
