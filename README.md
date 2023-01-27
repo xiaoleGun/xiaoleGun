@@ -10,9 +10,6 @@
 ### Buy me milk tea
 [爱发电](https://afdian.net/a/xiaoleGun)
 
-### 🎵 Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316vv52mbfrd4baiunsi7f6j324y&cover_image=true&theme=novatorem&bar_color=00c7fc&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=316vv52mbfrd4baiunsi7f6j324y&redirect=true)
-
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
