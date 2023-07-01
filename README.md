@@ -3,7 +3,7 @@
 ### Hi there 👋 I'm xiaoleGun
 - 🌱 I’m learning Android~
 - 📫 Email: xiaolegun@qq.com
-- 🏠 I'm a junior high school student of Beijing Yanqing No.4 middle school.
+- 🏠 I'm a high school student from Yanqing No.2 Middle School in Beijing
 - A staunch communist
 - “你负责担心，我负责搞定一切”
 
