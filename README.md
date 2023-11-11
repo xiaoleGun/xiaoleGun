@@ -5,7 +5,7 @@
 - 📫 Email: xiaolegun@qq.com
 - 🏠 I'm a high school student from Yanqing No.1 Middle School in Beijing
 - A staunch communist
-- “你负责担心，我负责搞定一切”
+- “前途是光明的，道路是曲折的”
 
 ### Buy me milk tea
 [爱发电](https://afdian.net/a/xiaoleGun)
