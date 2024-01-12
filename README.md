@@ -7,7 +7,11 @@
 - A staunch communist
 - “前途是光明的，道路是曲折的”
 
-### Buy me milk tea
+### Sponsorship for servers
+Thanks for everyone :heart: :heart: :heart:
+
+<img src="https://i.niupic.com/images/2024/01/12/fb23.png" width="30%" height="auto"><img src="https://i.niupic.com/images/2024/01/12/fb22.jpg" width="30%" height="auto">
+
 [爱发电](https://afdian.net/a/xiaoleGun)
 
 ### 💻 Environment
